@@ -4,7 +4,7 @@ import telebot
 import subprocess
 import random
 
-botToken_API = "5898652267:AAFqK7EwtLJMVLd6_TUYzg0fcmsTjIVfimo"
+botToken_API = "API"
 
 bot = telebot.TeleBot(botToken_API)
 
